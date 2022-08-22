@@ -2,7 +2,6 @@ import React from 'react'
 import { useState } from 'react'
 import axios from 'axios'
 import swal from 'sweetalert';
-import Draganddrop from './Draganddrop';
 import '../css/uploader.css'
 
 export default function Uploder(){
