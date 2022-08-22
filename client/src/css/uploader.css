@@ -1,0 +1,15 @@
+.dashed{
+    border-style: dashed;
+    border: 3px dashed rgb(49, 130, 212);
+    margin: 10px;
+    
+}
+
+.form-width{
+    width: 50%;
+    
+}
+
+
+
+
